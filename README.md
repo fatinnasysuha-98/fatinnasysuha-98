@@ -11,7 +11,8 @@ I specialize in building dashboards and transforming raw data into business insi
 - Tableau
 - SQL
 - Python
-- Azure <br>
+- Azure
+  
 **🚀 What I Do:**
 - Build interactive dashboards (Power BI, Tableau)
 - Clean and transform raw data using SQL & Python
