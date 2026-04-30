@@ -1,6 +1,6 @@
 ## Hey, there 👋
 
-Hi, I'm Fatin🌷
+Hi, I'm Fatin🌷 <br>
 📊 Data Analyst | BI Developer <br>
 📍 Malaysia
 
