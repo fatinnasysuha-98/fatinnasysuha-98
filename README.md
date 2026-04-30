@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey, there 👋
 
-<!--
-**fatinnasysuha-98/fatinnasysuha-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Fatin🌷
+📊 Data Analyst | BI Developer
+📍 Malaysia
 
-Here are some ideas to get you started:
+I specialize in building dashboards and transforming raw data into business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tools: Power BI, Tableau, SQL, Python, Azure
+⚡ Fun fact: 
+* I have 2 cats
+* I don't like coffee and chocolat
+* Hobbies: hiking, building legos and playing badminton
+
