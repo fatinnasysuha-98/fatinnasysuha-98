@@ -10,7 +10,7 @@ I specialize in building dashboards and transforming raw data into business insi
 🚀 What I Do:
 - Build interactive dashboards (Power BI, Tableau)
 - Clean and transform raw data using SQL & Python
-- Deliver business insights to support decision-making
+- Deliver business insights to support decision-making <br>
 ⚡ Fun fact: 
 * I have 2 cats
 * I don't like coffee and chocolat
