@@ -6,7 +6,12 @@ Hi, I'm Fatin🌷 <br>
 
 I specialize in building dashboards and transforming raw data into business insights.
 
-**🔧 Tools:** Power BI, Tableau, SQL, Python, Azure <br>
+**🔧 Tools:** 
+- Power BI
+- Tableau
+- SQL
+- Python
+- Azure <br>
 **🚀 What I Do:**
 - Build interactive dashboards (Power BI, Tableau)
 - Clean and transform raw data using SQL & Python
