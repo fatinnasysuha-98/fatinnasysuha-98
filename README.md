@@ -1,7 +1,7 @@
 ## Hey, there 👋
 
 Hi, I'm Fatin🌷 <br>
-📊 Data Analyst | BI Developer <br>
+📊 Data Professional | BI Developer <br>
 📍 Malaysia
 
 I specialize in building dashboards and transforming raw data into business insights.
